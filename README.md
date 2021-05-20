@@ -22,10 +22,12 @@ Now I am interested in **Web/Server development**
 
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
 
 ### 🛠 **MY TOOLS...**
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
