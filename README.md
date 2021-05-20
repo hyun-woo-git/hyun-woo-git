@@ -25,7 +25,7 @@ Now I am interested in **Web/Server development**
 
 ### 🛠 **MY TOOLS...**
 
-<img src="https://img.shields.io/badge/Visual Stydio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
